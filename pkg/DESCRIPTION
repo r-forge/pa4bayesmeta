@@ -1,0 +1,10 @@
+Package: pa4bayesmeta
+Type: Package
+Title: Prior Accuracy for Bayesian Meta-Analysis 
+Version: 0.1-3
+Date: 2021-07-13
+Author: Manuela Ott [aut, cre], Malgorzata Roos [aut], 
+Maintainer: Manuela Ott <manuela.c.ott@gmail.com>
+Description: Functionality for sensitivity-based identification and classification of inaccurate heterogeneity priors in the Bayesian normal-normal hierarchical model (NNHM) used for Bayesian meta-analysis, as described in Ott, Hunanyan, Held and Roos (2021, "Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis", in preparation for Statistical Methods in Medical Research).  Classifies inaccurate heterogeneity priors - i.e. heterogeneity priors which do not assign equal probability mass to both sides of the true between-study standard deviation - as either anticonservative (puts more than half of its probability mass on too small heterogeneity values) or conservative (puts more than half of its probability mass on too large heterogeneity values). Includes a function to compute the relative latent model complexity associated with a heterogeneity prior and a data set. The functions operate on data sets which are compatible with the 'bayesmeta' package on CRAN.
+Depends: bayesmeta, R (>= 3.5.0)
+License: GPL (>=2)

@@ -1,0 +1,16 @@
+
+importFrom("stats", "integrate", "median", "qnorm", "uniroot")
+importFrom("bayesmeta", "bayesmeta", "dhalfnormal", "dhalfcauchy", "dlomax",
+	   "rhalfnormal", "rhalfcauchy")
+
+export(prior_accuracy)
+export(HN_accuracy)
+export(HC_accuracy)
+export(pri_par_adjust)
+export(effective_rlmc)
+export(pri_par_epsilon_grid)
+export(sigma_ref)
+
+
+
+
