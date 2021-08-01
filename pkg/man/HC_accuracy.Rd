@@ -66,10 +66,10 @@ A list of the following 4 elements:
 }
 \references{
 Ott, M., Hunanyan, S., Held, L., Roos, M. Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis.
-In preparation. 2021.
+Submitted to Statistical Methods in Medical Research. 2021.
 %Manuscript submitted to \emph{Statistical Methods in Medical Research}. 
 
-Ott, M., Hunanyan, S., Held, L., Roos, M. Supplementary Material: Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. In preparation. 2021.
+Ott, M., Hunanyan, S., Held, L., Roos, M. Supplementary Material: Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. Submitted to Statistical Methods in Medical Research. 2021.
 %Submitted to \emph{Statistical Methods in Medical Research}. 
 
 Gelman, A. (2006). Prior distributions for variance parameters in hierarchical models (Comment on article by Browne and Draper). \emph{Bayesian Analysis} \bold{1(3)}, 515--534.

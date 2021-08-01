@@ -57,10 +57,10 @@ If \code{output=="prob"}: a data frame with columns "x" and "y", giving the valu
 %% ...
 }
 \references{
-Ott, M., Hunanyan, S., Held, L., Roos, M. Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. In preparation. 2021.
+Ott, M., Hunanyan, S., Held, L., Roos, M. Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. Submitted to Statistical Methods in Medical Research. 2021.
 %Manuscript submitted to \emph{Statistical Methods in Medical Research}.
 
-Ott, M., Hunanyan, S., Held, L., Roos, M. Supplementary Material: Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. In preparation. 2021.
+Ott, M., Hunanyan, S., Held, L., Roos, M. Supplementary Material: Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. Submitted to Statistical Methods in Medical Research. 2021.
 %% ~put references to the literature/web site here ~
 }
 

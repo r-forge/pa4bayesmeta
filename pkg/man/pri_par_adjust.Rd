@@ -83,7 +83,7 @@ A list of maximum four scale parameter values (including only those parameters f
 %% ...
 }
 \references{
-Ott, M., Hunanyan, S., Held, L., Roos, M. Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. In preparation. 2021.
+Ott, M., Hunanyan, S., Held, L., Roos, M. Sensitivity-based identification of inaccurate heterogeneity priors in Bayesian meta-analysis. Submitted to Statistical Methods in Medical Research. 2021.
 %Manuscript submitted to \emph{Statistical Methods in Medical Research}.
 
 Sorbye, S., Rue, H. (2014). Scaling intrinsic Gaussian Markov random field priors in
